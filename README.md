@@ -33,7 +33,7 @@ The strength assessment is based on the `zxcvbn` library extended with custom ru
 - Ability to switch between English and Russian.
 
 ### Animated banner
-- ASCII banner on program startup.
+- ASCII banner on program startup
 
 ---
 
